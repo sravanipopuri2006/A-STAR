@@ -216,3 +216,7 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+## Result
+A* search algorithm for a Graph has been implemented.
+
