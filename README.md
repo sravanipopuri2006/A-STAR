@@ -197,7 +197,7 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 
 
 <hr>
-<h2>Sample Input</h2>
+<h2> Input</h2>
 <hr>
 6 6 <br>
 A B 2 <br>
@@ -213,7 +213,7 @@ E 7 <br>
 D 1 <br>
 G 0 <br>
 <hr>
-<h2>Sample Output</h2>
+<h2>Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
